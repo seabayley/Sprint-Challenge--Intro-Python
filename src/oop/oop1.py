@@ -36,7 +36,7 @@ class Airplane(FlightVehicle):
     pass
 
 
-class Groundvehicle(Vehicle):
+class GroundVehicle(Vehicle):
     pass
 
 
